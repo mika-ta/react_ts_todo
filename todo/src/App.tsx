@@ -1,6 +1,7 @@
 
 import { Container, Typography } from "@mui/material";
 import TodoList from "./components/TodoList";
+import './index.css';
 
 const App = () => {
   return (
